@@ -25,7 +25,7 @@
   
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. 
  
-  - 🔭 I’m currently working on frontend and backend projects, building of web applications.
+  - 🔭 I’m currently working on frontend and backend projects, building web applications.
   - 🌱 Learning about data engineering.
   - 👯 Looking for companies with cultural match to build together.
   - 🤔 Always applying my knowledge of chemical engineer in my projects.
