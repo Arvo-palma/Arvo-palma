@@ -25,10 +25,10 @@
   
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. 
  
-  - 🔭 I’m currently working on frontend and backend build of web applications.
-  - 🌱 Learning about machine learning and data engineering
-  - 👯 Searching for companies with cultural match to work together.
-  - 🤔 Always thinking in some use to my chemical engineer degree in my projects.
+  - 🔭 I’m currently working on frontend and backend projects, building of web applications.
+  - 🌱 Learning about data engineering.
+  - 👯 Looking for companies with cultural match to build together.
+  - 🤔 Always applying my knowledge of chemical engineer in my projects.
   - 📫 How to reach me: contact.alvaro.palma@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-palma/)
   - 😄 Pronouns: He/Him
 </div>
