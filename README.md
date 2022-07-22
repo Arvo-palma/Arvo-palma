@@ -26,8 +26,8 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. 
  
   - 🔭 I’m currently working on frontend and backend projects of building web applications.
-  - 🌱 Learning about data engineering.
-  - 👯 Looking for companies with cultural match to build together.
+  - 🌱 Learning about development for mobile.
+  - 👯 Learning and working in [![80Lines Badge](https://img.shields.io/badge/80Lines-Trainee-lightgrey)](https://www.linkedin.com/in/alvaro-palma/)
   - 🤔 Always applying my knowledge of chemical engineer in my projects.
   - 📫 How to reach me: contact.alvaro.palma@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-palma/)
   - 😄 Pronouns: He/Him
@@ -37,6 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
