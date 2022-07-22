@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  
   - 🔭 I’m currently working on frontend and backend projects of building web applications.
   - 🌱 Learning about development for mobile.
-  - 👯 Learning and working in [![80Lines Badge](https://img.shields.io/badge/80Lines-Trainee-lightgrey)](https://www.linkedin.com/in/alvaro-palma/)
+  - 👯 Learning and working in [![80Lines Badge](https://img.shields.io/badge/80Lines-Trainee-lightgrey)](https://www.80lines.com/)
   - 🤔 Always applying my knowledge of chemical engineer in my projects.
   - 📫 How to reach me: contact.alvaro.palma@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-palma/)
   - 😄 Pronouns: He/Him
