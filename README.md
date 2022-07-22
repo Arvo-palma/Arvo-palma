@@ -27,9 +27,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  
   - 🔭 I’m currently working on frontend and backend projects of building web applications.
   - 🌱 Learning about development for mobile.
-  - 👯 Learning and working in [![80Lines Badge](https://img.shields.io/badge/80Lines-Trainee-lightgrey)](https://www.80lines.com/)
+  - 👯 Learning and working with [![80Lines Badge](https://img.shields.io/badge/80Lines-Trainee%20Program-lightgrey)](https://www.80lines.com/)
   - 🤔 Always applying my knowledge of chemical engineer in my projects.
-  - 📫 How to reach me: contact.alvaro.palma@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-palma/)
+  - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-contact.alvaro.palma%40gmail.com-red)](contact.alvaro.palma@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-palma/)
   - 😄 Pronouns: He/Him
 </div>
   
@@ -37,6 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
