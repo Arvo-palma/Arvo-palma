@@ -25,9 +25,9 @@
   
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. 
  
-  - 🔭 I’m currently working on frontend and backend projects of building web applications.
-  - 🌱 Learning about development for mobile.
-  - 👯 Learning and working with [![80Lines Badge](https://img.shields.io/badge/80Lines-Trainee%20Program-lightgrey)](https://www.80lines.com/)
+  - 🔭 I’m currently working on frontend and backend projects of building web and mobile applications.
+  - 🌱 Learning about payment gateways integration.
+  - 👯 Learning and working with [![80Lines Badge](https://img.shields.io/badge/80Lines-Software%20Development-lightgrey)](https://www.80lines.com/)
   - 🤔 Always applying my knowledge of chemical engineer in my projects.
   - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-contact.alvaro.palma%40gmail.com-red)](contact.alvaro.palma@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-palma/)
   - 😄 Pronouns: He/Him
@@ -44,6 +44,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest.JS"  alt="NestJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
