@@ -29,7 +29,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   - 🌱 Learning about AI integration.
   - 🤔 Always applying my knowledge of chemical engineer in my projects.
   - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-contact.alvaro.palma%40gmail.com-red)](contact.alvaro.palma@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-palma/)
-  - 😄 Pronouns: He/Him
 </div>
   
  ---
